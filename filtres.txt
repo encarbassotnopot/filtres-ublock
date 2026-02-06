@@ -1,0 +1,5 @@
+! Title: Filtres d'uBlock
+! Homepage: https://github.com/encarbassotnopot/filtres-ublock
+! License: https://github.com/encarbassotnopot/filtres-ublock/blob/main/LICENSE
+
+www.3cat.cat##[data-testid="publicitat"]
